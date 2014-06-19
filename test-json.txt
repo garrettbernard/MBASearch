@@ -1,0 +1,48 @@
+﻿Array
+(
+    [bossresponse] => Array
+        (
+            [responsecode] => 200
+            [limitedweb] => Array
+                (
+                    [start] => 0
+                    [count] => 3
+                    [totalresults] => 30600
+                    [results] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [date] => 
+                                    [clickurl] => http://www.chicagofed.org/digital_assets/others/people/cv/aaronson_daniel.pdf
+                                    [url] => http://www.chicagofed.org/digital_assets/others/people/cv/aaronson_daniel.pdf
+                                    [dispurl] => www.chicagofed.org/.../others/people/cv/<b>aaronson</b>_<b>daniel</b>.pdf
+                                    [title] => September 2008 <b>Daniel</b> <b>Aaronson</b> - Federal Reserve Bank of Chicago
+                                    [abstract] => <b>Daniel</b> <b>Aaronson</b> Work Address ... <b>Northwestern</b> <b>University</b>, 1996 NSF Fellow, Institute for Policy Research, 1993-1995. ... Public Schools <b>CEO</b> and <b>COO</b>*. *=Since 2004
+                                )
+
+                            [1] => Array
+                                (
+                                    [date] => 
+                                    [clickurl] => http://www.linkedin.com/pub/dir/daniel/aronson
+                                    [url] => http://www.linkedin.com/pub/dir/daniel/aronson
+                                    [dispurl] => www.linkedin.com/pub/dir/<b>daniel</b>/aronson
+                                    [title] => <b>daniel</b> aronson profiles | LinkedIn
+                                    [abstract] => <b>daniel</b> aronson 25 of 36 profiles See all profiles on LinkedIn Ã‚Â» View Full Profile; Dan Aronson Title <b>CEO</b> at Fandor
+                                )
+
+                            [2] => Array
+                                (
+                                    [date] => 
+                                    [clickurl] => http://www.kellogg.northwestern.edu/research/nonprofit/faculty.aspx
+                                    [url] => http://www.kellogg.northwestern.edu/research/nonprofit/faculty.aspx
+                                    [dispurl] => www.kellogg.<b>northwestern</b>.<b>edu</b>/research/nonprofit/faculty.aspx
+                                    [title] => Faculty at the Center for Nonprofit Management | Kellogg ...
+                                    [abstract] => Jim Croft, Executive Vice <b>President</b>, Field Museum ... <b>Founder</b> and <b>CEO</b>, Measuring Success ... <b>Northwestern</b> <b>University</b>
+                                )
+
+                        )
+
+                )
+
+        )
+)
